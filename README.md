@@ -1,4 +1,6 @@
 # CryptChain
+### See live demo: http://crypt-chain.vercel.app
+
 ## Create a web 3.0 app with React and Solidity smart contract
 In this project, I created crytocurreny exchange platform that have the client side of the project and the smart contract aspect.
 The Client side was built using the React frame work Vite.js to be specific while the smart contract was built using solidity
