@@ -24,4 +24,4 @@ The Client side was built using the React frame work Vite.js to be specific whil
 * Deploying the project to Github
 * Deploying the project to Vercel for live demonstration
 
-## Thank you for reading, I hope you do find some insight about the project
+## Thank you for reading, I hope you do find some insight about the project!
